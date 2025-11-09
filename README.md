@@ -41,7 +41,7 @@ npx rahel
 
 <div>
   <a href="https://github.com/irahel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A4C2F4&icon_color=e2f4a4&text_color=A4C2F4&bg_color=06152d" alt="irahel's Github Stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=A4C2F4&text_color=A4C2F4&bg_color=06152d"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rahelmartim&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A4C2F4&icon_color=e2f4a4&text_color=A4C2F4&bg_color=06152d" alt="irahel's Github Stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahelmartim&layout=compact&title_color=A4C2F4&text_color=A4C2F4&bg_color=06152d"/>
 </div>
 
